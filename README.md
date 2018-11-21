@@ -1,1 +1,1 @@
-# U-Net-Satellite_Image_Segmentation
+# U-Net Satellite Image Segmentation
