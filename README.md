@@ -6,4 +6,4 @@ So I thought it would be fun create our won dataset, using Google Maps layers. I
 This [notebook](U-Net_FastAI.ipynb) contains the implementation using fastAI library, and a pure PyTorch Implementation in work in progress.
 
 ## Results
-![Results](U-Net-Road_Detection/images/result.png)
+![Results](https://raw.githubusercontent.com/miragegokul/U-Net-Road_Detection/blob/master/images/result.png)
